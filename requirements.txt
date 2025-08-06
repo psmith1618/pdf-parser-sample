@@ -1,0 +1,8 @@
+cffi==1.17.1
+charset-normalizer==3.4.2
+cryptography==45.0.6
+docopt==0.6.2
+pdfminer.six==20220524
+py-pdf-parser==0.13.0
+pycparser==2.22
+Wand==0.6.10
